@@ -1,6 +1,6 @@
-# Aware-Privacy-Policy
+# Flare-Privacy-Policy
 
-## **Aware's Privacy Policy**
+## **Flare's Privacy Policy**
 ### By using Friday you accept with its privacy policy and [discord.com/terms](https://discord.com/terms) & [discord.com/guidelines](https://discord.com/guidelines)
 
 ## 1. What does it store?
@@ -34,9 +34,9 @@
 ## 4. This Privacy Policy doesn't answer my question. What should I do?
 
 #### You can reach us by the following methods:
-- Join our [Support Server](https://discord.gg/awarebot) on discord
-- Contact me on discord [discord.gg/awarebot](https://discord.gg/awarebot)
-- Server invite invalid or channels locked ? You can contact me via my email address: risintempmail@gmail.com
+- Join our [Support Server](https://discord.gg/jishaku) on discord
+- Contact me on discord [discord.gg/awarebot](https://discord.gg/jishaku)
+- Server invite invalid or channels locked ? You can contact me via my email address: samarplayz1337@gmail.com
 
 ## 5. How can we delete our entire data?
 
