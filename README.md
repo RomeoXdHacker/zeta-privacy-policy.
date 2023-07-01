@@ -1,6 +1,6 @@
 # Zeta-Privacy-Policy
 
-## **Flare's Privacy Policy**
+## **Zeta's Privacy Policy**
 ### By using Friday you accept with its privacy policy and [discord.com/terms](https://discord.com/terms) & [discord.com/guidelines](https://discord.com/guidelines)
 
 ## 1. What does it store?
