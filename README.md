@@ -1,4 +1,4 @@
-# Flare-Privacy-Policy
+# Zeta-Privacy-Policy
 
 ## **Flare's Privacy Policy**
 ### By using Friday you accept with its privacy policy and [discord.com/terms](https://discord.com/terms) & [discord.com/guidelines](https://discord.com/guidelines)
@@ -35,8 +35,8 @@
 
 #### You can reach us by the following methods:
 - Join our [Support Server](https://discord.gg/jishaku) on discord
-- Contact me on discord [discord.gg/awarebot](https://discord.gg/jishaku)
-- Server invite invalid or channels locked ? You can contact me via my email address: samarplayz1337@gmail.com
+- Contact me on discord [https://discord.gg/TUtbZh7M](https://discord.gg/jishaku)
+- Server invite invalid or channels locked ? You can contact me via my email address: ahir85978@gmail.com
 
 ## 5. How can we delete our entire data?
 
